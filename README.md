@@ -14,7 +14,7 @@ $ pipenv install
 ## Download datasets
 
 ```sh
-git lfs fetch
+$ git lfs fetch
 ```
 
 ## Open notebooks
