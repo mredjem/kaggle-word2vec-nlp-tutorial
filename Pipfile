@@ -16,6 +16,7 @@ bs4 = "*"
 spacy = "*"
 wordcloud = "*"
 gensim = "*"
+tensorflow = "*"
 
 [requires]
 python_version = "3.7"
