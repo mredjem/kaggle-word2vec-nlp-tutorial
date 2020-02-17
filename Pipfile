@@ -17,6 +17,7 @@ spacy = "*"
 wordcloud = "*"
 gensim = "*"
 tensorflow = "*"
+pyldavis = "*"
 
 [requires]
 python_version = "3.7"
